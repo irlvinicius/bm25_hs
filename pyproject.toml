@@ -1,0 +1,11 @@
+[project]
+name = "bm25-hs"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "pandas>=3.0.5",
+    "rank-bm25>=0.2.2",
+    "streamlit>=1.63.0",
+]
